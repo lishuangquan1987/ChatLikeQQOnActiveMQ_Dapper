@@ -1,0 +1,11 @@
+E:\Project2018\ChatLikeQQOnActiveMQ\src\ChatLikeQQOnActiveMQ.Model\bin\Debug\ChatLikeQQOnActiveMQ.Model.dll
+E:\Project2018\ChatLikeQQOnActiveMQ\src\ChatLikeQQOnActiveMQ.Model\bin\Debug\ChatLikeQQOnActiveMQ.Model.pdb
+E:\Project2018\ChatLikeQQOnActiveMQ\src\ChatLikeQQOnActiveMQ.Model\obj\Debug\ChatLikeQQOnActiveMQ.Model.csproj.CoreCompileInputs.cache
+E:\Project2018\ChatLikeQQOnActiveMQ\src\ChatLikeQQOnActiveMQ.Model\obj\Debug\ChatLikeQQOnActiveMQ.Model.dll
+E:\Project2018\ChatLikeQQOnActiveMQ\src\ChatLikeQQOnActiveMQ.Model\obj\Debug\ChatLikeQQOnActiveMQ.Model.pdb
+E:\Project2018\ChatLikeQQOnActiveMQ\src\ChatLikeQQOnActiveMQ.Model\obj\Debug\ChatLikeQQOnActiveMQ.Model.csprojAssemblyReference.cache
+E:\Project2018\ChatLikeQQOnActiveMQ_Dapper\src\ChatLikeQQOnActiveMQ.Model\bin\Debug\ChatLikeQQOnActiveMQ.Model.dll
+E:\Project2018\ChatLikeQQOnActiveMQ_Dapper\src\ChatLikeQQOnActiveMQ.Model\bin\Debug\ChatLikeQQOnActiveMQ.Model.pdb
+E:\Project2018\ChatLikeQQOnActiveMQ_Dapper\src\ChatLikeQQOnActiveMQ.Model\obj\Debug\ChatLikeQQOnActiveMQ.Model.csproj.CoreCompileInputs.cache
+E:\Project2018\ChatLikeQQOnActiveMQ_Dapper\src\ChatLikeQQOnActiveMQ.Model\obj\Debug\ChatLikeQQOnActiveMQ.Model.dll
+E:\Project2018\ChatLikeQQOnActiveMQ_Dapper\src\ChatLikeQQOnActiveMQ.Model\obj\Debug\ChatLikeQQOnActiveMQ.Model.pdb
