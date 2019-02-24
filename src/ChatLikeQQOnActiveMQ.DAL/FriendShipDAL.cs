@@ -27,7 +27,7 @@ namespace ChatLikeQQOnActiveMQ.DAL
             if (typeof(T) != typeof(FriendShip))
                 throw new Exception("invalid FriendShip type");
             FriendShip friendShip = obj as FriendShip;
-            string sql = string.Format("Delete from {0} where UserName1=@UserName1 and UserName2=@UserName2",tableName);
+            string sql = string.Format("Delete from {0} where (UserName1=@UserName1 and UserName2=@UserName2) or(UserName2=@UserName1 and @UserName1=@UserName2)",tableName);
             using (var conn = ConnectionFactory.GetConnection())
             {
                 return conn.Execute(sql, obj);
