@@ -92,6 +92,7 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="Bootstrapper.cs" />
+    <Compile Include="DataGenerator.cs" />
     <Compile Include="ViewModel\MainWindowViewModel.cs" />
     <Compile Include="WindowResizer.cs" />
     <Page Include="LoginForm.xaml">

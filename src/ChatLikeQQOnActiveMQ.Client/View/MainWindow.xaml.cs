@@ -23,17 +23,17 @@ namespace ChatLikeQQOnActiveMQ.Client
         public User CurrentUser;
         public MainWindow()
         {
-            LoginForm loginForm = new LoginForm();
-            bool? result = loginForm.ShowDialog();
-            if (result.HasValue && result.Value)
-            {
-                CurrentUser = loginForm.CurrentUser;
-                InitializeComponent();
-            }
-            else
-            {
-                Environment.Exit(Environment.ExitCode);
-            }
+            //LoginForm loginForm = new LoginForm();
+            //bool? result = loginForm.ShowDialog();
+            //if (result.HasValue && result.Value)
+            //{
+            //    CurrentUser = loginForm.CurrentUser;
+            //    InitializeComponent();
+            //}
+            //else
+            //{
+            //    Environment.Exit(Environment.ExitCode);
+            //}
             InitializeComponent();
         }
 

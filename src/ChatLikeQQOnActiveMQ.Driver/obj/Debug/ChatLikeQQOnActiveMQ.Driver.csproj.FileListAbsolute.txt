@@ -25,3 +25,4 @@ E:\Project2018\ChatLikeQQOnActiveMQ_Dapper\src\ChatLikeQQOnActiveMQ.Driver\obj\D
 E:\Project2018\ChatLikeQQOnActiveMQ_Dapper\src\ChatLikeQQOnActiveMQ.Driver\obj\Debug\ChatLikeQQOnActiveMQ.Driver.csproj.CopyComplete
 E:\Project2018\ChatLikeQQOnActiveMQ_Dapper\src\ChatLikeQQOnActiveMQ.Driver\obj\Debug\ChatLikeQQOnActiveMQ.Driver.dll
 E:\Project2018\ChatLikeQQOnActiveMQ_Dapper\src\ChatLikeQQOnActiveMQ.Driver\obj\Debug\ChatLikeQQOnActiveMQ.Driver.pdb
+E:\Project2018\ChatLikeQQOnActiveMQ_Dapper\src\ChatLikeQQOnActiveMQ.Driver\obj\Debug\ChatLikeQQOnActiveMQ.Driver.csprojAssemblyReference.cache
