@@ -50,13 +50,13 @@ namespace ChatLikeQQOnActiveMQ.Server
             msgModel.Time = DateTime.Now;
             switch (msgModel.MsgType)
             {
-                case MsgType.P2p://transfer to the to quene
+                case MsgType.PointToPoint://transfer to the to quene
                     ChatLikeQQOnActiveMQ.Common.DriverHelper.SendMsgToQuene(msgModel.To,JsonConvert.SerializeObject(msgModel));
                     var pointToPoint = JsonConvert.DeserializeObject<PointToPoint>(msgModel.Msg);
                     pointToPointChatBLL.SaveOneRecord(pointToPoint);
                     this.Dispatcher.Invoke(new Action(() => mainWindowViewModel.PointToPointList.Add(new PointToPointModel() { Content = pointToPoint.Content, DateTime = pointToPoint.Time, From = pointToPoint.From, To = pointToPoint.To })));
                     break;
-                case MsgType.Pubsub://transfer to the group quene
+                case MsgType.PubSub://transfer to the group quene
                     ChatLikeQQOnActiveMQ.Common.DriverHelper.SendMsgToTopic(msgModel.To,JsonConvert.SerializeObject(msgModel));
                     break;
                 case MsgType.Login://transfer to from

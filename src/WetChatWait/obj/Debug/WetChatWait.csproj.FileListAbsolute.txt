@@ -46,3 +46,4 @@ E:\Project2018\ChatLikeQQOnActiveMQ_Dapper\src\WetChatWait\obj\Debug\WetChatWait
 E:\Project2018\ChatLikeQQOnActiveMQ_Dapper\src\WetChatWait\obj\Debug\WetChatWait.pdb
 E:\Project2018\ChatLikeQQOnActiveMQ_Dapper\src\WetChatWait\obj\Debug\Themes\Generic.baml
 E:\Project2018\ChatLikeQQOnActiveMQ_Dapper\src\WetChatWait\obj\Debug\WetChatWait.g.resources
+E:\Project2018\ChatLikeQQOnActiveMQ_Dapper\src\WetChatWait\obj\Debug\WetChatWait.csprojAssemblyReference.cache

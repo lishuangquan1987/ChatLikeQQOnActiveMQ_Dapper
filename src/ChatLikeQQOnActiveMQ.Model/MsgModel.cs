@@ -32,11 +32,11 @@ namespace ChatLikeQQOnActiveMQ.Model
         /// <summary>
         /// for point to point chat
         /// </summary>
-        P2p,
+        PointToPoint,
         /// <summary>
         /// for group chat 
         /// </summary>
-        Pubsub,
+        PubSub,
         /// <summary>
         /// for register
         /// </summary>
